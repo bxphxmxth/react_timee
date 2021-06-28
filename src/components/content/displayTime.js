@@ -1,6 +1,6 @@
 import { div } from 'prelude-ls';
 import React from 'react';
-import DemoComponent from "../demoComponent"
+import DemoComponent from "./demoComponent"
 
 
 class DisplayTime extends React.Component {
