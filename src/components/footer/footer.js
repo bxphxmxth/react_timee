@@ -1,9 +1,11 @@
 import React from "react";
+import "./footer.css"
+
 
 class Footer extends React.Component{
      render(){
           return(
-               <footer>Un site de molengeek</footer>
+               <footer> <p>Un site de molengeek</p></footer>
           );
      }
 }

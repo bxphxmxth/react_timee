@@ -1,0 +1,15 @@
+footer{
+     background-color: rgb(177, 148, 153);
+     text-align: center;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    
+}
+
+footer>p{
+    
+     color: rgb(204, 198, 198);
+     text-shadow: black 1px 1px 1px ;
+     
+}

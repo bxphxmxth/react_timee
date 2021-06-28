@@ -25,7 +25,7 @@ class Content extends React.Component{
           //      pageContent = <DisplayTime/>
           // }
           return(
-               <div>
+               <div className="App-content">
                     <p> Logo </p>
                     
 
